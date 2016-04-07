@@ -21,6 +21,15 @@ git branch nome
 git branch
 git checkout nomebranch
 git merge nomebranch
+git reset SHA
+git push vai vem
+git pull ondevem
+git fetch
+git branch -d nomebranch
+git remote -v
+git branch nomenovabranch
+git branch
+git checkout novebranch
 ```
 
 # Links, todo mundo gosta de links
