@@ -12,6 +12,15 @@ sudo apt-get install git
 
 Comandos Git:
 ```sh
+git init
+git status
+git add file
+git commit -m "mensagem"
+git log
+git branch nome
+git branch
+git checkout nomebranch
+git merge nomebranch
 ```
 
 # Links, todo mundo gosta de links
