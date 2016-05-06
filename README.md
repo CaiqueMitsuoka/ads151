@@ -47,4 +47,5 @@ Git no CodeSchool: [Try Git]
 [Learn Git - Codecademy]: <https://www.codecademy.com/pt/learn/learn-git>
 [The difference between git pull, git fetch and git clone (and git rebase)]: <http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/>
 [Dillinger]: <http://dillinger.io/>
-Git em funcionamento: [learnGitBranching]: <http://pcottle.github.io/learnGitBranching/>
+Git em funcionamento: [learnGitBranching]
+[learnGitBranching]: <http://pcottle.github.io/learnGitBranching/>
