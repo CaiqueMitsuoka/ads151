@@ -42,6 +42,9 @@ Editor dessa linguagem de marcação do GitHub para o README.md: [Dillinger]
 Diferença entre git clone, pull, fetch e -rebase (Em inglês): [The difference between git pull, git fetch and git clone (and git rebase)]
 
 Git no CodeSchool: [Try Git]
+
+Medium sobre Git na prática: [Aqui estão todos os comandos Git que usei na última semana, e o que eles fazem]
+
 [Try Git]: <https://try.github.io/>
 [Git]: <https://git-scm.com/>
 [Learn Git - Codecademy]: <https://www.codecademy.com/pt/learn/learn-git>
@@ -49,3 +52,4 @@ Git no CodeSchool: [Try Git]
 [Dillinger]: <http://dillinger.io/>
 Git em funcionamento: [learnGitBranching]
 [learnGitBranching]: <http://pcottle.github.io/learnGitBranching/>
+[Aqui estão todos os comandos Git que usei na última semana, e o que eles fazem]: <https://medium.com/@Son_of_a_Beast/aqui-est%C3%A3o-todos-os-comandos-git-que-usei-na-%C3%BAltima-semana-e-o-que-eles-fazem-67fc77600ed2#.pi78bqjcl/>
